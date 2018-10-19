@@ -25,3 +25,9 @@ if($item =="CadastrarProcessos"){
     }else{
       include_once "../View/inicial.php";
 }
+$item = $_GET['item'];
+if($item =="registro_user"){
+    include_once ('../View/register.php');
+    }else{
+      include_once "../View/inicial.php";
+}

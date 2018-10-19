@@ -86,8 +86,8 @@
         <div class="dropdown-divider"></div>
         <h6 class="dropdown-header">Other Pages:</h6>
 
+        <a class="dropdown-item" href="inicial.php?item=registro_user">Cadastrar Usuário</a>
         <a class="dropdown-item" href="index.php">Login</a>
-        <a class="dropdown-item" href="register.php">Register</a>
         <a class="dropdown-item" href="forgot-password.php">Forgot Password</a>
       </div>
     </li>
