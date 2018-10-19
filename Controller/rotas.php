@@ -18,3 +18,10 @@ if($item =="charts"){
     }else{
       include_once "../View/inicial.php";
 }
+
+$item = $_GET['item'];
+if($item =="CadastrarProcessos"){
+    include_once ('../View/Cadastro_Processo.php');
+    }else{
+      include_once "../View/inicial.php";
+}

@@ -82,6 +82,7 @@
         <h6 class="dropdown-header">Cadastrar:</h6>
         <a class="dropdown-item" href="inicial.php?item=CadastrarCliente">Clientes</a>
         <a class="dropdown-item" href="inicial.php?item=CadastrarAdvogados">Advogados</a>
+        <a class="dropdown-item" href="inicial.php?item=CadastrarProcessos">Processos</a>
         <div class="dropdown-divider"></div>
         <h6 class="dropdown-header">Other Pages:</h6>
 
@@ -91,7 +92,7 @@
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="inicial.php?item=charts"> 
+      <a class="nav-link" href="inicial.php?item=charts">
         <i class="fas fa-fw fa-chart-area"></i>
         <span>Charts</span></a>
     </li>
